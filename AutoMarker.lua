@@ -876,6 +876,7 @@ end
 function autoMarker:UPDATE_MOUSEOVER_UNIT()
   OnMouseover()
   local _,guid = UnitExists("mouseover")
+  if not guid then return end
   if AutoMarkerDB.settings.debug then
     auto_print(guid .. " " .. UnitName(guid))
   end
