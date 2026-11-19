@@ -1561,15 +1561,15 @@ addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_right_5", {
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "domo", {
-  ["0xF130002D90278D51"] = DIAMOND, -- elite
-  ["0xF130002D90278D52"] = STAR, -- elite
-  ["0xF130002D90278D53"] = CIRCLE, -- elite
-  ["0xF130002D90278D54"] = TRIANGLE, -- elite
-  ["0xF130002D8F278D55"] = SKULL, -- healer
-  ["0xF130002D8F278D56"] = SQUARE, -- healer
-  ["0xF130002D8F278D57"] = MOON, -- healer
-  ["0xF130002D8F278D58"] = CROSS, -- healer
-  ["0xF130002EF2278D50"] = UNMARKED, -- domo
+  ["0xF130002D908959A3"] = DIAMOND, -- elite
+  ["0xF130002D908959A4"] = STAR, -- elite
+  ["0xF130002D908959A5"] = CIRCLE, -- elite
+  ["0xF130002D908959A6"] = TRIANGLE, -- elite
+  ["0xF130002D8F8959A7"] = SKULL, -- healer
+  ["0xF130002D8F8959A8"] = SQUARE, -- healer
+  ["0xF130002D8F8959A9"] = MOON, -- healer
+  ["0xF130002D8F8959AA"] = CROSS, -- healer
+  ["0xF130002EF28959A2"] = UNMARKED, -- domo
 })
 
 --/////////////// AQ20 ///////////////
@@ -1836,8 +1836,8 @@ addToDefaultNpcsToMark(L["Blackwing Lair"], "lab3", {
 
 addToDefaultNpcsToMark(L["Blackwing Lair"], "wyrmguard1", {
   ["0xF1300030AD014A6F"] = SQUARE, -- Death Talon Overseer
-  ["0xF1300030AC014A70"] = SKULL, -- Death Talon Wyrmguard
-  ["0xF1300030AD014A6D"] = MOON, -- Death Talon Overseer
+  ["0xF1300030AC014A70"] = MOON, -- Death Talon Wyrmguard
+  ["0xF1300030AD014A6D"] = SKULL, -- Death Talon Overseer
   ["0xF1300030AD014A6E"] = CROSS, -- Death Talon Overseer
 })
 
