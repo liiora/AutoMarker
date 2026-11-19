@@ -3120,10 +3120,10 @@ addToDefaultNpcsToMark(L["Onyxia's Lair"], "trash_4", {
 })
 
 addToDefaultNpcsToMark(L["Onyxia's Lair"], "trash_5", {
-  ["0xF130002F612792F2"] = SKULL, -- Onyxian Warder
+  ["0xF130002F612792F2"] = MOON, -- Onyxian Warder
   ["0xF13000BF782792F1"] = CROSS, -- Onyxian Inciter
   ["0xF13000BF782792F0"] = SQUARE, -- Onyxian Inciter
-  ["0xF13000BF792792ED"] = MOON, -- Onyxian Flamespawn
+  ["0xF13000BF792792ED"] = SKULL, -- Onyxian Flamespawn
 })
 
 -- ony path
