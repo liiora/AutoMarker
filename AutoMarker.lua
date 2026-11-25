@@ -934,8 +934,8 @@ end
 
 -- todo, separate this into zones and load only each zone
 local patterns = {
-  flamewaker_healer           = "^0xF130002D8F27",
-  flamewaker_elite            = "^0xF130002D9027",
+  flamewaker_healer           = "^0xF130002D8F89",
+  flamewaker_elite            = "^0xF130002D9089",
   gnarlmoon_owl_blue          = "^0xF13000EA5E27",
   gnarlmoon_owl_red           = "^0xF13000EA5D27",
   incantagos_seekers          = "^0xF13000EA5527",
