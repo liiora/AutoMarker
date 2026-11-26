@@ -1502,9 +1502,9 @@ addToDefaultNpcsToMark(L["Molten Core"], "twin_golems", {
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_left_1", {
   ["0xF13000CBB7278CD2"] = DIAMOND, -- Shadowforge Hierophant
-  ["0xF13000CBB6278CD3"] = SQUARE, -- Shadowforge Guardian
+  ["0xF13000CBB6278CD3"] = SKULL, -- Shadowforge Guardian
   ["0xF13000CBB8278CD4"] = CROSS, -- Shadowforge Blazeweaver
-  ["0xF13000CBB8278CD5"] = SKULL, -- Shadowforge Blazeweaver
+  ["0xF13000CBB8278CD5"] = SQUARE, -- Shadowforge Blazeweaver
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_left_2", {
@@ -1519,20 +1519,20 @@ addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_left_3", {
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_left_4", {
-  ["0xF13000CBB7278CDF"] = SKULL, -- Shadowforge Hierophant
-  ["0xF13000CBB6278CE0"] = CROSS, -- Shadowforge Guardian
+  ["0xF13000CBB7278CDF"] = CROSS, -- Shadowforge Hierophant
+  ["0xF13000CBB6278CE0"] = SKULL, -- Shadowforge Guardian
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_left_5", {
-  ["0xF13000CBB8278CC4"] = SKULL, -- Shadowforge Blazeweaver
-  ["0xF13000CBB6278CC1"] = SQUARE, -- Shadowforge Guardian
+  ["0xF13000CBB8278CC4"] = SQUARE, -- Shadowforge Blazeweaver
+  ["0xF13000CBB6278CC1"] = SKULL, -- Shadowforge Guardian
   ["0xF13000CBB8278CC3"] = CROSS, -- Shadowforge Blazeweaver
   ["0xF13000CBB6278CC2"] = MOON, -- Shadowforge Guardian
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_right_1", {
-  ["0xF13000CBB6278CB8"] = SQUARE, -- Shadowforge Guardian
-  ["0xF13000CBB8278CB7"] = SKULL, -- Shadowforge Blazeweaver
+  ["0xF13000CBB6278CB8"] = SKULL, -- Shadowforge Guardian
+  ["0xF13000CBB8278CB7"] = SQUARE, -- Shadowforge Blazeweaver
   ["0xF13000CBB6278CB9"] = CROSS, -- Shadowforge Guardian
   ["0xF13000CBB6278CB3"] = DIAMOND, -- Shadowforge Guardian
 })
@@ -1554,10 +1554,10 @@ addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_right_4", {
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_right_5", {
-  ["0xF13000CBB6278CC0"] = MOON, -- Shadowforge Guardian
-  ["0xF13000CBB6278CBF"] = SQUARE, -- Shadowforge Guardian
-  ["0xF13000CBB7278CBD"] = CROSS, -- Shadowforge Hierophant
-  ["0xF13000CBB7278CBE"] = SKULL, -- Shadowforge Hierophant
+  ["0xF13000CBB6278CC0"] = SKULL, -- Shadowforge Guardian
+  ["0xF13000CBB6278CBF"] = CROSS, -- Shadowforge Guardian
+  ["0xF13000CBB7278CBD"] = MOON, -- Shadowforge Hierophant
+  ["0xF13000CBB7278CBE"] = SQUARE, -- Shadowforge Hierophant
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "domo", {
